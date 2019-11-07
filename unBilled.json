@@ -1,0 +1,201 @@
+{
+    "unbilledAmount": {
+        "unitOfMeasurement": "USD",
+        "decimalNumber": {
+            "number": "0",
+            "decimalPlaces": "1"
+        }
+    },
+    "unbilledItems": [
+        {
+            "aggregationLevel": "1",
+            "aggregationCharacteristics": [
+                {
+                    "name": "PRODUCT_OFFERING_ID",
+                    "value": "ddf13b95-ddfe-4466-9c48-9c3f29339f51",
+                    "humanReadableValue": "ddf13b95-ddfe-4466-9c48-9c3f29339f51"
+                },
+                {
+                    "name": "CFSS_ID",
+                    "value": "832387ee-1ee7-4858-9047-19094b4cb0ff",
+                    "humanReadableValue": "832387ee-1ee7-4858-9047-19094b4cb0ff"
+                },
+                {
+                    "name": "PRICE_TYPE",
+                    "value": "usage",
+                    "humanReadableValue": "usage"
+                }
+            ],
+            "buckets": [
+                {
+                    "bucketId": "null",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "120000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "CHARGED_UNIT"
+                },
+                {
+                    "bucketId": "5159AAA46B8448BC9DFCC0D3EC2ACB7B",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "60000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "PB_UNIT"
+                },
+                {
+                    "bucketId": "null",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "120000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "RATED_UNIT"
+                },
+                {
+                    "bucketId": "3D4CCB8FF35849758E0AD58BA43F16F8",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "60000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "PB_UNIT"
+                }
+            ],
+            "customerTaxedBillItems": [],
+            "name": ""
+        },
+        {
+            "aggregationLevel": "2",
+            "aggregationCharacteristics": [
+                {
+                    "name": "PRODUCT_OFFERING_ID",
+                    "value": "ddf13b95-ddfe-4466-9c48-9c3f29339f51",
+                    "humanReadableValue": "ddf13b95-ddfe-4466-9c48-9c3f29339f51"
+                },
+                {
+                    "name": "CFSS_ID",
+                    "value": "832387ee-1ee7-4858-9047-19094b4cb0ff",
+                    "humanReadableValue": "832387ee-1ee7-4858-9047-19094b4cb0ff"
+                }
+            ],
+            "buckets": [
+                {
+                    "bucketId": "null",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "120000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "CHARGED_UNIT"
+                },
+                {
+                    "bucketId": "5159AAA46B8448BC9DFCC0D3EC2ACB7B",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "60000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "PB_UNIT"
+                },
+                {
+                    "bucketId": "null",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "120000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "RATED_UNIT"
+                },
+                {
+                    "bucketId": "3D4CCB8FF35849758E0AD58BA43F16F8",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "60000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "PB_UNIT"
+                }
+            ],
+            "customerTaxedBillItems": [],
+            "name": ""
+        },
+        {
+            "aggregationLevel": "3",
+            "aggregationCharacteristics": [
+                {
+                    "name": "PRODUCT_OFFERING_ID",
+                    "value": "ddf13b95-ddfe-4466-9c48-9c3f29339f51",
+                    "humanReadableValue": "ddf13b95-ddfe-4466-9c48-9c3f29339f51"
+                }
+            ],
+            "buckets": [
+                {
+                    "bucketId": "null",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "120000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "CHARGED_UNIT"
+                },
+                {
+                    "bucketId": "5159AAA46B8448BC9DFCC0D3EC2ACB7B",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "60000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "PB_UNIT"
+                },
+                {
+                    "bucketId": "null",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "120000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "RATED_UNIT"
+                },
+                {
+                    "bucketId": "3D4CCB8FF35849758E0AD58BA43F16F8",
+                    "value": {
+                        "unitOfMeasurement": "byte",
+                        "decimalNumber": {
+                            "number": "60000000",
+                            "decimalPlaces": "0"
+                        }
+                    },
+                    "bucketType": "PB_UNIT"
+                }
+            ],
+            "customerTaxedBillItems": [],
+            "name": ""
+        }
+    ],
+    "sharingInfo": []
+}
