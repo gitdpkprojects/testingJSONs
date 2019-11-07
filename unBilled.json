@@ -33,6 +33,7 @@
                         "unitOfMeasurement": "byte",
                         "decimalNumber": {
                             "number": "330000000",
+
                             "decimalPlaces": "0"
                         }
                     },
