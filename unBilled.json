@@ -43,7 +43,7 @@
                     "value": {
                         "unitOfMeasurement": "byte",
                         "decimalNumber": {
-                            "number": "60000000",
+                            "number": "6000000",
                             "decimalPlaces": "0"
                         }
                     },
